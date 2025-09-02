@@ -1,2 +1,2 @@
 # Tuesday
-author <br> sukanya
+author <br> sukanya -skill academy
